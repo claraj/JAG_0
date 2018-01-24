@@ -6,7 +6,7 @@ import java.lang.reflect.Field;
 
 import static org.junit.Assert.*;
 
-public class Question_5_Test_Class_Setup {
+public class Question_5_Class_Setup_Test {
 
     @Test(timeout = 3000)
     public void testAnswers() {

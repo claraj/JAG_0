@@ -32,7 +32,7 @@
     {
       "question" : 5,
       "java_file": "Question_5_Class_Setup",
-      "test_file": "Question_5_Test_Class_Setup",
+      "test_file": "Question_5_Class_Setup_Test",
       "points": 4
     }
   ]
