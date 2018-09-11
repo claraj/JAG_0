@@ -1,6 +1,5 @@
 package week_0;
 
-import com.google.common.collect.ImmutableMap;
 import org.junit.Test;
 
 import java.util.Map;
@@ -14,7 +13,7 @@ import static week_0.Question_3_Miles_To_Kilometers.milesToKilometers;
 public class Question_3_Miles_To_KilometersTest {
     
     @Test(timeout=3000)
-    public void milesToKilometersTest() throws Exception {
+    public void milesToKilometersTest() {
         
         String msg = "Write code in the milesToKilometers method.  " +
                 "Multiply the input miles by 1.6 to get the number of kilometers, " +
@@ -23,7 +22,7 @@ public class Question_3_Miles_To_KilometersTest {
         double delta = 0;
         
         // some example inputs and outputs
-        Map<Double, Double> inputOutput = ImmutableMap.of(
+        Map<Double, Double> inputOutput = Map.of(
                 0.0, 0.0,
                 10.0, 16.0,
                 100.5, 160.8,
