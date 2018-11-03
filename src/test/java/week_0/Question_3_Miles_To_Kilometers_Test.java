@@ -10,7 +10,7 @@ import static week_0.Question_3_Miles_To_Kilometers.milesToKilometers;
 /**
  * Created by clara on 1/4/18.
  */
-public class Question_3_Miles_To_KilometersTest {
+public class Question_3_Miles_To_Kilometers_Test {
     
     @Test(timeout=3000)
     public void milesToKilometersTest() {
