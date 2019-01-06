@@ -5,8 +5,8 @@ import static input.InputUtils.stringInput;
 /**
  
  Finish the shout() method. It should convert a String to uppercase, and add "!!!" to the end.
- 
- So if the user enters "hello", the method will be called with "hello". The method will turn "hello" into "HELLO!!!"
+ So if the user enters "hello", the method will be called with "hello".
+ The method will turn "hello" into "HELLO!!!" and return this.
 
 */
 
@@ -29,7 +29,8 @@ public class Question_2_Shout {
     public static String shout(String shoutThis) {
 
         // TODO convert the shoutThis String to uppercase, and add "!!!" to the end.
-        // For example, change "cat" to "CAT!!!"
+        // For example, change "cat" to "CAT!!!".
+        // You can use the .toUpperCase() method
         
         // TODO replace this line with your code.
         return null;
