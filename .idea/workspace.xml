@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b7f7e8a-f845-4996-82a9-18387b6e25eb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/week_0/Question_2_Shout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_0/Question_2_Shout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week_0/Question_5_Class_Setup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_0/Question_5_Class_Setup.java" afterDir="false" />
+    </list>
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java Auto Grader - Wk 2 etc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Lab 0 Questions.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 0 Questions.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="152">
+                <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question_5_Class_Setup.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_5_Class_Setup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="153" column="11" selection-start-line="153" selection-start-column="11" selection-end-line="153" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question_1_Add_Numbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_1_Add_Numbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>true</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/week_0/Question_1_Add_Numbers.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/week_0/Question_1_Add_Numbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week_0/Question_2_Shout.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week_0/Question_5_Class_Setup.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Java_Auto_Grader" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Java_Auto_Grader" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="76" />
+    <option name="y" value="51" />
+    <option name="width" value="1305" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java Auto Grader - Wk 0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader 0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Auto Grader - Wk 0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader 0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Auto Grader - Wk 0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader 0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Auto Grader - Wk 0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader 0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Auto Grader - Wk 0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader 0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="week_0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Auto Grader - Wk 0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader 0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Auto Grader - Wk 0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader 0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Auto Grader - Wk 0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader 0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="week_0" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc81e9bc-ffde-4ffe-95d7-9eaad6ecc5db" name="Default" comment="" />
+      <created>1496165225017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496165225017</updated>
+      <workItem from="1496165230245" duration="42696000" />
+      <workItem from="1496292748330" duration="22524000" />
+      <workItem from="1501630697667" duration="3938000" />
+      <workItem from="1502388309707" duration="97000" />
+      <workItem from="1503613662197" duration="928000" />
+      <workItem from="1504021486254" duration="1107000" />
+      <workItem from="1504110628428" duration="1213000" />
+      <workItem from="1504112815675" duration="9025000" />
+      <workItem from="1504269560002" duration="3988000" />
+      <workItem from="1504633857845" duration="1443000" />
+      <workItem from="1505841949710" duration="1899000" />
+      <workItem from="1506447926910" duration="587000" />
+      <workItem from="1507130190362" duration="362000" />
+      <workItem from="1507734587538" duration="27000" />
+      <workItem from="1508261068380" duration="10000" />
+      <workItem from="1509562888100" duration="1507000" />
+      <workItem from="1509635392536" duration="3727000" />
+      <workItem from="1510008153264" duration="4654000" />
+      <workItem from="1515076715698" duration="10569000" />
+      <workItem from="1515100461432" duration="2184000" />
+      <workItem from="1515809957312" duration="127000" />
+      <workItem from="1516834571944" duration="521000" />
+      <workItem from="1524156851484" duration="193000" />
+      <workItem from="1534901334904" duration="605000" />
+      <workItem from="1536083827254" duration="1115000" />
+      <workItem from="1536693368684" duration="1195000" />
+      <workItem from="1536697944521" duration="766000" />
+      <workItem from="1541278763875" duration="2177000" />
+      <workItem from="1544567361619" duration="1320000" />
+      <workItem from="1546799795021" duration="3562000" />
+    </task>
+    <task id="LOCAL-00018" summary="Week 3 credit card">
+      <created>1496335588667</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1496335588667</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Week 3 done.">
+      <created>1496337815161</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1496337815161</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Move Go Fish to separate package&#10;">
+      <created>1496338151143</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1496338151143</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Move Go Fish to separate package&#10;">
+      <created>1496338200253</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1496338200253</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Q4 dice rolls">
+      <created>1496339577265</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1496339577265</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Q4 arraylist 1">
+      <created>1496340307232</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1496340307232</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Q4 recycling 🚚">
+      <created>1496340785507</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1496340785507</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Wk 4 lakes">
+      <created>1496342728083</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1496342728083</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Wk 4 snow">
+      <created>1496344115527</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1496344115527</updated>
+    </task>
+    <task id="LOCAL-00027" summary=" Wk 4 snow ❄️❄️❄️❄️">
+      <created>1496344848397</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1496344848397</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Week 2 Lab Assignment">
+      <created>1501631214686</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1501631214687</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Week 2 Lab Assignment">
+      <created>1501632291871</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1501632291871</updated>
+    </task>
+    <task id="LOCAL-00030" summary=" Grading rubric">
+      <created>1501632714576</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1501632714576</updated>
+    </task>
+    <task id="LOCAL-00031" summary="InputUtils library&#10;">
+      <created>1502388417053</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1502388417053</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Fixed argument typo in cellphone question">
+      <created>1503613812066</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1503613812066</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Fixed argument typo in cellphone question">
+      <created>1504027532026</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1504027532026</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Fixed argument typo in cellphone question">
+      <created>1504027607552</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1504027607552</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Fixed Q5 average bill test">
+      <created>1504112118695</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1504112118695</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Fixed Q2 random number generator secret number test">
+      <created>1504116214047</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1504116214047</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Comments for Q6">
+      <created>1504117507828</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1504117507828</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Fixes for Q2 random number generator">
+      <created>1504117801085</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1504117801085</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Fixes for Q2 random number generator tests">
+      <created>1504127416322</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1504127416322</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Account for Windows-specific newline characters">
+      <created>1504195641383</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1504195641387</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Account for Windows-specific newline characters">
+      <created>1504195689366</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1504195689366</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Cellphone updates, fixed tests">
+      <created>1504273506815</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1504273506816</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Rename module">
+      <created>1504803318132</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1504803318132</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Update instructions with more examples">
+      <created>1506448100185</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1506448100185</updated>
+    </task>
+    <task id="LOCAL-00045" summary="More test fail messages">
+      <created>1506448341491</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1506448341491</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Fix project name">
+      <created>1507734606451</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1507734606452</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Project 0:  Practice Problems (and intro to testing)">
+      <created>1509636240229</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1509636240229</updated>
+    </task>
+    <task id="LOCAL-00048" summary="More practice problems">
+      <created>1509637191484</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1509637191484</updated>
+    </task>
+    <task id="LOCAL-00049" summary="More practice problems">
+      <created>1509638034755</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1509638034755</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Move loop problems to lab 2; some new problems">
+      <created>1515082511019</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1515082511020</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Clarify instructions in test files">
+      <created>1515082943238</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1515082943239</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Instructions">
+      <created>1515086007682</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1515086007682</updated>
+    </task>
+    <task id="LOCAL-00053" summary="grade JSON">
+      <created>1515086601561</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1515086601562</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Another test for add numbers">
+      <created>1515090398080</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1515090398080</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Another test for add numbers">
+      <created>1515092934034</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1515092934034</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Readme">
+      <created>1515093004295</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1515093004295</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Readme">
+      <created>1515093064553</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1515093064553</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Readme">
+      <created>1516834986447</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1516834986447</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Clean up unused dependencies">
+      <created>1536697374120</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1536697374143</updated>
+    </task>
+    <task id="LOCAL-00060" summary="cleaned up instructions">
+      <created>1536697913696</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1536697913700</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Fixed .json file format to be consistent with other labs">
+      <created>1536770193035</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1536770193037</updated>
+    </task>
+    <task id="LOCAL-00062" summary="config files for autograder">
+      <created>1541279394848</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1541279394849</updated>
+    </task>
+    <task id="LOCAL-00063" summary="config files for autograder">
+      <created>1541300764074</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1541300764074</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Update Docker image to JDK 11">
+      <created>1546800467143</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1546800467143</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Update maven to Java 11">
+      <created>1546800589220</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1546800589220</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Tidying">
+      <created>1546801090036</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1546801090038</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.01.04 at 13h 11m 17s.xml">
+      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.01.04 at 13h 12m 23s.xml">
+      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.01.24 at 16h 58m 13s.xml">
+      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.01.24 at 17h 00m 02s.xml">
+      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.04.19 at 11h 55m 26s.xml">
+      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.04.19 at 11h 55m 54s.xml">
+      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.09.11 at 15h 21m 55s.xml">
+      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.09.11 at 15h 53m 07s.xml">
+      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.12.11 at 16h 31m 33s.xml">
+      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Question_1_Add_Numbers_Test - 2019.01.06 at 12h 54m 28s.xml">
+      <configuration name="Question_1_Add_Numbers_Test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1635000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="25" y="35" width="1305" height="810" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.27638888" />
+      <window_info id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32960895" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5277778" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.29065302" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.15147266" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.872549" visible="true" weight="0.28661916" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.12745099" side_tool="true" weight="0.23770492" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2425876" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32992327" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
+      <window_info anchor="bottom" id="Changes" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="IDEtalk" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="12" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32992327" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="right" id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5277778" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Changes" order="9" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.27638888" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.872549" visible="true" weight="0.2804642" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.29065302" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.15147266" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="IDEtalk" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" sideWeight="0.12745099" side_tool="true" weight="0.23770492" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2425876" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Fixed Q2 random number generator secret number test" />
+    <MESSAGE value="Comments for Q6" />
+    <MESSAGE value="Fixes for Q2 random number generator" />
+    <MESSAGE value="Fixes for Q2 random number generator tests" />
+    <MESSAGE value="Account for Windows-specific newline characters" />
+    <MESSAGE value="Cellphone updates, fixed tests" />
+    <MESSAGE value="Rename module" />
+    <MESSAGE value="Update instructions with more examples" />
+    <MESSAGE value="More test fail messages" />
+    <MESSAGE value="Fix project name" />
+    <MESSAGE value="Project 0:  Practice Problems (and intro to testing)" />
+    <MESSAGE value="More practice problems" />
+    <MESSAGE value="Move loop problems to lab 2; some new problems" />
+    <MESSAGE value="Clarify instructions in test files" />
+    <MESSAGE value="Instructions" />
+    <MESSAGE value="grade JSON" />
+    <MESSAGE value="Another test for add numbers" />
+    <MESSAGE value="Readme" />
+    <MESSAGE value="Clean up unused dependencies" />
+    <MESSAGE value="cleaned up instructions" />
+    <MESSAGE value="Fixed .json file format to be consistent with other labs" />
+    <MESSAGE value="config files for autograder" />
+    <MESSAGE value="Update Docker image to JDK 11" />
+    <MESSAGE value="Update maven to Java 11" />
+    <MESSAGE value="Tidying" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tidying" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/go_fish_project/Go_Fish.java</url>
+          <line>252</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grades/grade_scheme.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_1_Add_Numbers_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_2_Shout_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_3_Miles_To_Kilometers_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_4_Triplicate_String_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_4_Triplicate_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_4/Question_3_Recycling_Truck_ArraysTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_4/Question_3_Recycling_Truck_Arrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_4/Question_5_Lake_RunningTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_4/Question_5_Lake_Running.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_4/Question_4_Snowfall_HashmapTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_4/Question_4_Snowfall_HashMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_5_Average_Utility_Bill.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_6_Parcel_Delivery.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_9_cellphone_storageTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_3_debuggerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_9_cellphone_storage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_7_String_Contains_Chars.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_4_Random_Number_Guessing_GameTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_4_Random_Number_Guessing_Game.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_8_square_of_charactersTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_5_Average_Utility_BillTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_6_Parcel_DeliveryTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_8_square_of_characters.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_3_debugger.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_3_Quiz_QuestionTest.java" />
+    <entry file="file://$PROJECT_DIR$/../Java Auto Grader Week 2/src/test/java/week_2/Question_6_Many_Copy_StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_6_Hello_FunctionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_6_Hello_Function.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_3_Quiz_Question.java" />
+    <entry file="file://$PROJECT_DIR$/../Java Auto Grader Week 2/src/main/java/week_2/Question_6_Many_Copy_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_utils/MapUtils.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="744" selection-start-line="744" selection-end-line="744" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_utils/ArrayListUtils.java" />
+    <entry file="file://$PROJECT_DIR$/Java Auto Grader - Week 0.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grades/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grades/grade_scheme.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_5_Class_Setup_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_4_Triplicate_String_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_3_Miles_To_Kilometers_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_2_Shout_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_1_Add_Numbers_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_4_Triplicate_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_3_Miles_To_Kilometers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_2_Shout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_1_Add_Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 0 Questions.md">
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="152">
+            <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_5_Class_Setup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" column="11" selection-start-line="153" selection-start-column="11" selection-end-line="153" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java Auto Grader - Week 0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: edu.minneapolis:input-utils:1.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
