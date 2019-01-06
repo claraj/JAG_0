@@ -10,8 +10,8 @@ public class Question_2_Shout_Test {
     @Test(timeout=3000)
     public void testShout() throws Exception {
 
-        String[] in = { "hello", "CAT", "Here's a string"};
-        String[] out = { "HELLO!!!", "CAT!!!", "HERE'S A STRING!!!"};
+        String[] in = { "hello", "CAT", "Here's a string" };
+        String[] out = { "HELLO!!!", "CAT!!!", "HERE'S A STRING!!!" };
         
         for (int s = 0; s < in.length ; s++) {
             

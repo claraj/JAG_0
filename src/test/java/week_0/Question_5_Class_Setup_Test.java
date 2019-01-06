@@ -41,7 +41,7 @@ public class Question_5_Class_Setup_Test {
 
         } catch (Exception e) {
             e.printStackTrace();
-            fail("This may happen if you rename or move the Question_5_Class_Setup.java file. If so, put it back to the original place. \nIf it's where it should be, please report this failure to Clara");
+            fail("Error running tests on Question_5_Class_Setup.java.");
         }
 
 

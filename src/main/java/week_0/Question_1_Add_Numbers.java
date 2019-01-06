@@ -21,7 +21,7 @@ public class Question_1_Add_Numbers {
         int total = addNumbers(number1, number2);
         
         // Print the output, using String formatting
-        System.out.println(String.format("The result of adding %d to %d makes %s", number1, number2, total));
+        System.out.printf("Adding %d to %d makes %s", number1, number2, total);
 
     }
 
@@ -31,7 +31,7 @@ public class Question_1_Add_Numbers {
         // It should add num1 and num2 and return the result.
         // For example, if num1 = 5 and num2 = 3, your code should calculate 5 + 3 = 8
         
-        return num1 + num2;
+        return 0;
 
     }
 
