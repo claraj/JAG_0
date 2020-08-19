@@ -20,34 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b7f7e8a-f845-4996-82a9-18387b6e25eb" name="Default" comment="correct dockerfile">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Auto Grader - Week 0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Auto Grader - Week 0.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>true</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/week_0/Question_1_Add_Numbers.java" root0="SKIP_HIGHLIGHTING" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-23" />
-    <option name="y" value="51" />
-    <option name="width" value="1262" />
-    <option name="height" value="817" />
   </component>
   <component name="ProjectId" id="1gK9CUYCEhfzyfWam9qWV8YurFt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -61,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -148,7 +133,8 @@
       <workItem from="1541278763875" duration="2177000" />
       <workItem from="1544567361619" duration="1320000" />
       <workItem from="1546799795021" duration="3562000" />
-      <workItem from="1597852291341" duration="56000" />
+      <workItem from="1597852291341" duration="641000" />
+      <workItem from="1597853770914" duration="75000" />
     </task>
     <task id="LOCAL-00020" summary="Move Go Fish to separate package&#10;">
       <created>1496338151143</created>
@@ -496,38 +482,6 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.01.24 at 17h 00m 02s.xml">
-      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.04.19 at 11h 55m 26s.xml">
-      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.04.19 at 11h 55m 54s.xml">
-      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.09.11 at 15h 21m 55s.xml">
-      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.09.11 at 15h 53m 07s.xml">
-      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2018.12.11 at 16h 31m 33s.xml">
-      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Question_1_Add_Numbers_Test - 2019.01.06 at 12h 54m 28s.xml">
-      <configuration name="Question_1_Add_Numbers_Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2019.01.06 at 16h 01m 39s.xml">
-      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2019.01.06 at 16h 02m 08s.xml">
-      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="week_0_in_Java_Auto_Grader_-_Week_0 - 2019.01.06 at 16h 02m 18s.xml">
-      <configuration name="week_0 in Java Auto Grader - Week 0" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
@@ -541,6 +495,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -573,10 +528,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="correct dockerfile" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="63" key="SettingsEditor" timestamp="1597852332085">
+    <state width="1228" height="283" key="GridCell.Tab.0.bottom" timestamp="1597852417513">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="0" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1597852332085" />
+    <state width="1228" height="283" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597852417513" />
+    <state width="1228" height="283" key="GridCell.Tab.0.center" timestamp="1597852417513">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1228" height="283" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597852417513" />
+    <state width="1228" height="283" key="GridCell.Tab.0.left" timestamp="1597852417512">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1228" height="283" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597852417512" />
+    <state width="1228" height="283" key="GridCell.Tab.0.right" timestamp="1597852417513">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1228" height="283" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597852417513" />
+    <state x="0" y="63" key="SettingsEditor" timestamp="1597853796528">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1597853796528" />
+    <state x="493" y="119" width="840" height="490" key="find.popup" timestamp="1597853819363">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="493" y="119" width="840" height="490" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1597853819363" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
