@@ -29,8 +29,10 @@ public class Question_4_Triplicate_String {
         
         // TODO create a String that is three copies of the original String.
         // Example: if oneString = "Java" this method should return "JavaJavaJava".
+
         // TODO modify this line to return the new String you created
         return null;
+
     }
     
 }

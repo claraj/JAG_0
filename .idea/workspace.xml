@@ -21,6 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4b7f7e8a-f845-4996-82a9-18387b6e25eb" name="Default" comment="correct dockerfile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week_0/Question_2_Shout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_0/Question_2_Shout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week_0/Question_4_Triplicate_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_0/Question_4_Triplicate_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week_0/Question_5_Class_Setup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_0/Question_5_Class_Setup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Question_1_Add_Numbers">
+  <component name="RunManager" selected="JUnit.week_0 in Java Auto Grader - Week 0">
     <configuration name="Question_1_Add_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_0.Question_1_Add_Numbers" />
       <module name="Java Auto Grader - Week 0" />
@@ -66,6 +69,23 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_5_Class_Setup_Test.testAnswers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Auto Grader - Week 0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week_0" />
+      <option name="MAIN_CLASS_NAME" value="week_0.Question_5_Class_Setup_Test" />
+      <option name="METHOD_NAME" value="testAnswers" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,8 +123,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_1_Add_Numbers" />
         <item itemvalue="JUnit.week_0 in Java Auto Grader - Week 0" />
+        <item itemvalue="JUnit.Question_5_Class_Setup_Test.testAnswers" />
+        <item itemvalue="Application.Question_1_Add_Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +169,8 @@
       <workItem from="1544567361619" duration="1320000" />
       <workItem from="1546799795021" duration="3562000" />
       <workItem from="1597852291341" duration="641000" />
-      <workItem from="1597853770914" duration="116000" />
+      <workItem from="1597853770914" duration="218000" />
+      <workItem from="1597871283955" duration="537000" />
     </task>
     <task id="LOCAL-00020" summary="Move Go Fish to separate package&#10;">
       <created>1496338151143</created>
@@ -542,22 +564,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="correct dockerfile" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1228" height="283" key="GridCell.Tab.0.bottom" timestamp="1597852417513">
+    <state width="1275" height="269" key="GridCell.Tab.0.bottom" timestamp="1597871782270">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1228" height="283" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597852417513" />
-    <state width="1228" height="283" key="GridCell.Tab.0.center" timestamp="1597852417513">
+    <state width="1275" height="269" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597871782270" />
+    <state width="1275" height="269" key="GridCell.Tab.0.center" timestamp="1597871782269">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1228" height="283" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597852417513" />
-    <state width="1228" height="283" key="GridCell.Tab.0.left" timestamp="1597852417512">
+    <state width="1275" height="269" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597871782269" />
+    <state width="1275" height="269" key="GridCell.Tab.0.left" timestamp="1597871782269">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1228" height="283" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597852417512" />
-    <state width="1228" height="283" key="GridCell.Tab.0.right" timestamp="1597852417513">
+    <state width="1275" height="269" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597871782269" />
+    <state width="1275" height="269" key="GridCell.Tab.0.right" timestamp="1597871782270">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1228" height="283" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597852417513" />
+    <state width="1275" height="269" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597871782270" />
     <state x="0" y="63" key="SettingsEditor" timestamp="1597853796528">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

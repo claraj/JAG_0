@@ -25,7 +25,8 @@ package week_0;
     
     /*  Reading:
     *   Read Chapter 1, The Way of the Program, and Chapter 2, Variables and Operators.
-    *
+    *   Chapter 1:  http://greenteapress.com/thinkjava6/html/thinkjava6002.html
+    *   Chapter 2:  http://greenteapress.com/thinkjava6/html/thinkjava6003.html
     *   TODO Set this boolean to true once you've completed this
     */
 
@@ -52,12 +53,12 @@ package week_0;
 
 
     /* (If using your own computer)
-    *   Installing software:  Install Java 11 JDK, on your own computer
+    *   Installing software:  Install Java 14 JDK, on your own computer
     *
     *  TODO Set this boolean to true once you've completed this
     */
 
-    public boolean haveInstalledJava11 = false;
+    public boolean haveInstalledJava14 = false;
 
 
 
@@ -71,7 +72,7 @@ package week_0;
     *   TODO Set this boolean to true once you've completed this
     */
 
-    public boolean haveInstalleOrConfirmedInstallOfdGit = false;
+    public boolean haveInstalledOrConfirmedInstallOfGit = false;
 
 
     /* Install IntelliJ *** Ultimate *** Edition on your own computer,
@@ -85,7 +86,7 @@ package week_0;
 
 
     /*  Verify you can create and run a Hello World java program on your own computer,
-    *   or the ITEC computers.
+    *   or the school computers.
     *
     *   TODO Set this boolean to true once you've completed this
     */

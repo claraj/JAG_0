@@ -32,9 +32,9 @@ public class Question_2_Shout {
         // For example, change "cat" to "CAT!!!".
         // You can use the .toUpperCase() method
         
-        // TODO replace this line with your code.
+        // TODO replace this line with your code. Return the String you create.
         return null;
-        
+
     }
 
 }
